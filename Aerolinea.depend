@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1427320030 source:c:\users\carlos varela\documents\aerolinea\main.c
+	<stdio.h>
+	<stdlib.h>
+
